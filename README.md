@@ -57,6 +57,8 @@ Calculate the absolute difference between the sums of the primary diagonal and s
 
 ## HackerRank Result
 
+![Diagonal Difference](Diagonal-Difference/01-diagonal-difference-hackerrank.png)
+
 ---
 
 # 2. Dynamic Array
@@ -83,6 +85,8 @@ Process a series of queries using dynamic sequences and the XOR operation to det
 [View dynamic_array.cpp](Dynamic-Array/dynamic_array.cpp)
 
 ## HackerRank Result
+
+![Dynamic Array](Dynamic-Array/02-dynamic-array.png)
 
 ---
 
@@ -111,6 +115,8 @@ Convert a time from 12-hour AM/PM format to 24-hour military time format.
 
 ## HackerRank Result
 
+![Time Conversion](Time-Conversion/03-time-conversion.png)
+
 ---
 
 # 4. Compare the Triplets
@@ -138,6 +144,8 @@ Compare Alice's and Bob's three ratings and calculate their respective scores.
 
 ## HackerRank Result
 
+![Compare the Triplets](Compare-the-Triplets/04-compare-triplets.png)
+
 ---
 
 # 5. Sparse Arrays
@@ -163,6 +171,8 @@ Count how many times each query string occurs in the given collection of strings
 [View sparse_arrays.cpp](Sparse-Arrays/sparse_arrays.cpp)
 
 ## HackerRank Result
+
+![Sparse Arrays](Sparse-Arrays/05-sparse-arrays.png)
 
 ---
 

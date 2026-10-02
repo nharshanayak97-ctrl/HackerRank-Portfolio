@@ -11,6 +11,7 @@ int diagonalDifference(vector<vector<int>> arr) {
 
     for (int i = 0; i < n; i++) {
         primary += arr[i][i];
+        
         secondary += arr[i][n - i - 1];
     }
 
